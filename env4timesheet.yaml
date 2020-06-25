@@ -1,0 +1,51 @@
+name: /depot/bioinf/Personal_Directories/xie186/gs_timesheet/env4gs_timesheet
+channels:
+  - biobakery
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - brotlipy=0.7.0
+  - ca-certificates=2020.6.20
+  - certifi=2020.6.20
+  - cffi=1.14.0
+  - chardet=3.0.4
+  - cryptography=2.9.2
+  - gspread=3.1.0
+  - idna=2.9
+  - ld_impl_linux-64=2.34
+  - libffi=3.2.1
+  - libgcc-ng=9.2.0
+  - libgomp=9.2.0
+  - libstdcxx-ng=9.2.0
+  - ncurses=6.1
+  - openssl=1.1.1g
+  - pip=20.1.1
+  - pycparser=2.20
+  - pyopenssl=19.1.0
+  - pysocks=1.7.1
+  - python=3.8.3
+  - python_abi=3.8
+  - readline=8.0
+  - requests=2.24.0
+  - setuptools=47.3.1
+  - six=1.15.0
+  - sqlite=3.30.1
+  - tk=8.6.10
+  - urllib3=1.25.9
+  - wheel=0.34.2
+  - xz=5.2.5
+  - zlib=1.2.11
+  - pip:
+    - cachetools==4.1.0
+    - et-xmlfile==1.0.1
+    - google-auth==1.18.0
+    - jdcal==1.4.1
+    - openpyxl==3.0.3
+    - pyasn1==0.4.8
+    - pyasn1-modules==0.2.8
+    - rsa==4.6
+prefix: /depot/bioinf/Personal_Directories/xie186/gs_timesheet/env4gs_timesheet
+
