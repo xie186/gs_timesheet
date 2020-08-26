@@ -7,3 +7,6 @@ python extract_keyword_date.py  data/Timesheet_2020_July20_2020.xlsx Jan,Feb,Mar
 
  perl  tab2xlsx_mul.pl data/Timesheet_2019_scRNA.tsv,data/Timesheet_2020_July20_2020_scRNA.tsv 2019,2020 data/Timesheet_2019_2020_scRNA.xlsx
 
+
+ python extract_keyword_date.py data/Timesheet_2020_July27_2020.xlsx Jan,Feb,Mar,April,May,Jun,July plant_cuticular_wax > data/Timesheet_2020_July27_2020_Wax.tsv
+
