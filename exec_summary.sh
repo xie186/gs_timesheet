@@ -1,3 +1,15 @@
+## Aug 27
+
+python extract_keyword_date.py data/Timesheet_2020_Aug26_2020.xlsx Jan,Feb,Mar,April,May,Jun,July,Aug plant_cuticular_wax > data/Timesheet_2020_Aug27_2020_Wax.tsv
+
+
+
+
+
+
+
+
+
 python test2.py Timesheet_2020.xlsx Jan,Feb,Mar,April,May,Jun |grep 'Zhang'
 
 

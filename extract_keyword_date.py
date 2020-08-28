@@ -5,6 +5,8 @@ from openpyxl import load_workbook
 xlsx = sys.argv[1]
 month = sys.argv[2]
 key_word = sys.argv[3]
+output = sys.argv[4]
+
 
 month_list = month.split(",")
 
